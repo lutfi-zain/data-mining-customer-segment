@@ -1,0 +1,32 @@
+Phase,Milestone,Task_ID,Task_Name,Priority,Status,Owner,Start_Date,Target_Date,Actual_Date,Progress_%,Dependencies,Deliverables,Impact_Score,Notes
+1,Customer Segmentation,1.1,Data Exploration & Cleaning,High,Complete,Data Team,2025-08-02,2025-08-02,2025-08-02,100,None,01_data/data.csv processed,5,✅ Successfully processed 2822 records
+1,Customer Segmentation,1.2,Demographic Segmentation,High,Complete,Data Team,2025-08-02,2025-08-02,2025-08-02,100,1.1,01_data/data_with_segments.csv,4,✅ Age groups and regional segmentation
+1,Customer Segmentation,1.3,Machine Learning Clustering,High,Complete,Data Team,2025-08-02,2025-08-02,2025-08-02,100,1.2,01_data/data_with_clusters.csv,5,✅ K-means clustering with 3 segments
+1,Customer Segmentation,1.4,Statistical Validation,Medium,Complete,Data Team,2025-08-02,2025-08-02,2025-08-02,100,1.3,Silhouette Score: 0.359,4,✅ Good cluster separation validated
+1,Customer Segmentation,1.5,Executive Visualizations,High,Complete,Data Team,2025-08-02,2025-08-02,2025-08-02,100,1.4,03_visualizations/*.png,5,✅ Professional dashboard and charts
+1,Customer Segmentation,1.6,Business Reports,High,Complete,Data Team,2025-08-02,2025-08-02,2025-08-02,100,1.5,04_reports/*.md,5,✅ Executive summary and technical reports
+2.1,Market Opportunity,2.1.1,Product Demand Analysis per Segment,High,Complete,Data Team,2025-08-02,2025-08-05,2025-08-02,100,1.6,Product demand matrix per segment,5,✅ Top programs identified per segment
+2.1,Market Opportunity,2.1.2,Market Size & Growth Potential,High,Complete,Business Team,2025-08-02,2025-08-06,2025-08-02,100,2.1.1,Market sizing report,5,✅ TAM: Rp554M across segments
+2.1,Market Opportunity,2.1.3,Competitive Landscape Mapping,High,Complete,Research Team,2025-08-02,2025-08-07,2025-08-02,100,2.1.2,Competitive analysis framework,4,✅ Market gaps and advantages identified
+2.1,Market Opportunity,2.1.4,Unmet Needs Identification,Medium,Complete,Analysis Team,2025-08-02,2025-08-08,2025-08-02,100,2.1.3,Unmet needs analysis,4,✅ 5 primary needs per segment identified
+2.1,Market Opportunity,2.1.5,Cross-selling Opportunity Matrix,Medium,Complete,Business Team,2025-08-02,2025-08-09,2025-08-02,100,2.1.4,Cross-sell matrix,3,✅ Rp738k cross-sell potential identified
+2.2,CLV & Pricing,2.2.1,CLV Calculation per Segment,High,Not Started,Data Team,2025-08-10,2025-08-12,,0,2.1.5,CLV dashboard per segment,5,Calculate lifetime value by segment
+2.2,CLV & Pricing,2.2.2,Price Elasticity Analysis,High,Not Started,Pricing Team,2025-08-11,2025-08-13,,0,2.2.1,Price elasticity curves,5,Determine optimal pricing points
+2.2,CLV & Pricing,2.2.3,Revenue Stream Modeling,High,Not Started,Business Team,2025-08-12,2025-08-14,,0,2.2.2,Revenue model framework,4,Design monetization strategies
+2.2,CLV & Pricing,2.2.4,Pricing Strategy per Segment,Medium,Not Started,Strategy Team,2025-08-13,2025-08-15,,0,2.2.3,Pricing strategy document,4,Segment-specific pricing recommendations
+2.2,CLV & Pricing,2.2.5,Monetization Framework,Medium,Not Started,Business Team,2025-08-14,2025-08-16,,0,2.2.4,Monetization blueprint,3,Overall revenue generation framework
+2.3,Customer Journey,2.3.1,Customer Journey Mapping,High,Not Started,UX Team,2025-08-17,2025-08-19,,0,2.2.5,Journey maps per segment,5,Map customer touchpoints and interactions
+2.3,Customer Journey,2.3.2,Churn Prediction Model,High,Not Started,Data Science,2025-08-18,2025-08-20,,0,2.3.1,Churn prediction algorithm,5,Build ML model to predict customer churn
+2.3,Customer Journey,2.3.3,Retention Strategy per Segment,High,Not Started,CRM Team,2025-08-19,2025-08-21,,0,2.3.2,Retention playbook,4,Strategies to reduce churn per segment
+2.3,Customer Journey,2.3.4,Engagement Pattern Analysis,Medium,Not Started,Analytics Team,2025-08-20,2025-08-22,,0,2.3.3,Engagement analysis report,4,Identify high-engagement activities
+2.3,Customer Journey,2.3.5,Loyalty Program Framework,Medium,Not Started,Marketing Team,2025-08-21,2025-08-23,,0,2.3.4,Loyalty program design,3,Design retention and reward programs
+2.4,Go-to-Market,2.4.1,Channel Effectiveness Analysis,High,Not Started,Marketing Team,2025-08-24,2025-08-26,,0,2.3.5,Channel ROI analysis,5,Evaluate marketing channel performance
+2.4,Go-to-Market,2.4.2,Campaign Response Modeling,High,Not Started,Digital Team,2025-08-25,2025-08-27,,0,2.4.1,Campaign response model,5,Predict campaign effectiveness per segment
+2.4,Go-to-Market,2.4.3,Geographic Expansion Analysis,Medium,Not Started,Expansion Team,2025-08-26,2025-08-28,,0,2.4.2,Geographic expansion plan,4,Identify priority markets for expansion
+2.4,Go-to-Market,2.4.4,Partnership Strategy,Medium,Not Started,BD Team,2025-08-27,2025-08-29,,0,2.4.3,Partnership framework,3,Strategic alliance opportunities
+2.4,Go-to-Market,2.4.5,Sales Funnel Optimization,Medium,Not Started,Sales Team,2025-08-28,2025-08-30,,0,2.4.4,Sales funnel design,4,Optimize conversion at each stage
+2.5,Business Model,2.5.1,Value Proposition per Segment,High,Not Started,Strategy Team,2025-08-31,2025-09-02,,0,2.4.5,Value proposition canvas,5,Define unique value for each segment
+2.5,Business Model,2.5.2,Operational Requirements Analysis,High,Not Started,Operations Team,2025-09-01,2025-09-03,,0,2.5.1,Operations blueprint,5,Define operational needs and resources
+2.5,Business Model,2.5.3,Resource Planning & Budgeting,High,Not Started,Finance Team,2025-09-02,2025-09-04,,0,2.5.2,Financial projections,5,Budget and resource allocation plan
+2.5,Business Model,2.5.4,Risk Assessment & Mitigation,Medium,Not Started,Risk Team,2025-09-03,2025-09-05,,0,2.5.3,Risk management plan,4,Identify and mitigate business risks
+2.5,Business Model,2.5.5,Implementation Roadmap,High,Not Started,Project Team,2025-09-04,2025-09-06,,0,2.5.4,Implementation plan,5,Detailed execution roadmap
