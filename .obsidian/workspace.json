@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final Analysis/MASTER_EXECUTIVE_SUMMARY.md",
-                "mode": "source",
+                "file": "Final Analysis/02_detailed_clustering_analysis.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MASTER_EXECUTIVE_SUMMARY"
+              "title": "02_detailed_clustering_analysis"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final Analysis/MASTER_EXECUTIVE_SUMMARY.md",
+                "file": "Final Analysis/02_detailed_clustering_analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MASTER_EXECUTIVE_SUMMARY"
+              "title": "Backlinks for 02_detailed_clustering_analysis"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final Analysis/MASTER_EXECUTIVE_SUMMARY.md",
+                "file": "Final Analysis/02_detailed_clustering_analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MASTER_EXECUTIVE_SUMMARY"
+              "title": "Outgoing links from 02_detailed_clustering_analysis"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final Analysis/MASTER_EXECUTIVE_SUMMARY.md",
+                "file": "Final Analysis/02_detailed_clustering_analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MASTER_EXECUTIVE_SUMMARY"
+              "title": "Outline of 02_detailed_clustering_analysis"
             }
           }
         ]
@@ -170,6 +170,15 @@
   },
   "active": "eb926297bb25781e",
   "lastOpenFiles": [
+    "CREATIVE_CHART_FIX_REPORT.md",
+    "Final Analysis/charts/11_creative_arts_comparison.png",
+    "optimize_creative_chart.py",
+    "Final Analysis/charts/11_creative_arts_by_cluster_alt.png",
+    "Final Analysis/README.md",
+    "fix_creative_chart.py",
+    "Final Analysis/01_comprehensive_segmentation_report.md",
+    "INDIVIDUAL_CHARTS_COMPLETION_REPORT.md",
+    "Final Analysis/MASTER_EXECUTIVE_SUMMARY.md",
     "Final Analysis/charts/README.md",
     "Final Analysis/charts/13_geographic_distribution.png",
     "Final Analysis/charts/12_business_opportunity_matrix.png",
@@ -179,12 +188,8 @@
     "Final Analysis/charts/08_frequency_program_analysis.png",
     "Final Analysis/charts/07_pca_visualization.png",
     "Final Analysis/charts/06_spending_distribution.png",
-    "Final Analysis/charts/05_age_distribution.png",
-    "Final Analysis/charts/04_entrepreneurship_by_cluster.png",
     "Final Analysis/charts",
     "Final Analysis/INDEX.md",
-    "Final Analysis/MASTER_EXECUTIVE_SUMMARY.md",
-    "Final Analysis/01_comprehensive_segmentation_report.md",
     "create_individual_charts.py",
     "Final Analysis/COMPLETE_INTEGRATION_SUMMARY.md",
     "Final Analysis/02_detailed_clustering_analysis.md",
@@ -197,7 +202,6 @@
     "SUMMARY_TOC.md",
     "SUMMARY.md",
     "Final Analysis/STAKEHOLDER_PACKAGE_READY.md",
-    "Final Analysis/README.md",
     "Final Analysis/INTEGRATED_VISUAL_REPORT_GUIDE.md",
     "Final Analysis/EXECUTIVE_SUMMARY.md",
     "Final Analysis/04_demographic_profiling_analysis.md",
@@ -211,10 +215,6 @@
     "05_results/MASTER_EXECUTIVE_SUMMARY.md",
     "02_scripts/comprehensive_visualization_suite.py",
     "04_reports/04_demographic_profiling_analysis.md",
-    "04_reports/03_interest_pattern_analysis.md",
-    "04_reports/02_detailed_clustering_analysis.md",
-    "04_reports/01_comprehensive_segmentation_report.md",
-    "02_scripts/comprehensive_data_mining_analysis.py",
-    "02_scripts/final_project_journey_visualization.py"
+    "04_reports/03_interest_pattern_analysis.md"
   ]
 }
