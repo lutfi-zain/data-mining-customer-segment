@@ -18,6 +18,12 @@ Identify optimal customer segmentation using multiple machine learning algorithm
 - **7 distinct customer segments** with clear behavioral patterns
 - **Multiple algorithm validation** confirms clustering robustness
 
+### 📊 **CLUSTER VISUALIZATION:**
+![PCA Visualization of Customer Clusters](./charts/07_pca_visualization.png)
+
+### 📈 **CLUSTER CENTERS ANALYSIS:**
+![Cluster Centers Heatmap](./charts/10_cluster_centers_heatmap.png)
+
 ---
 
 ## 🤖 COMPREHENSIVE ALGORITHM COMPARISON
@@ -62,6 +68,9 @@ Cluster 6: 474 customers (16.8%) - Young Parent Educators
 - **Silhouette Score**: 0.445 (Good separation between clusters)
 - **Calinski-Harabasz Index**: 2493.5 (Strong cluster definition)
 - **Davies-Bouldin Index**: 0.741 (Low intra-cluster scatter)
+
+### 📊 **PROGRAM VS FREQUENCY ANALYSIS:**
+![Frequency vs Program Analysis](./charts/08_frequency_program_analysis.png)
 
 ### 2️⃣ **DBSCAN CLUSTERING ANALYSIS**
 

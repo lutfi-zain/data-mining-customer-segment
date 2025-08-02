@@ -16,7 +16,10 @@
 - **Complex interest patterns** discovered across all sub-categories
 - **Comprehensive demographic profiling** completed untuk semua segments
 
-### 🔍 **MAJOR DISCOVERIES:**
+### � **SEGMENTATION OVERVIEW:**
+![Customer Segments by Age and Spending](./charts/02_age_spending_segmentation.png)
+
+### �🔍 **MAJOR DISCOVERIES:**
 1. **Entrepreneurship dominance**: 1,465 customers (51.9%) interested
 2. **Creative interests prevalence**: Seni & Visual (898), Crafting/DIY (851)
 3. **Multi-category overlap**: Customers show complex interest combinations

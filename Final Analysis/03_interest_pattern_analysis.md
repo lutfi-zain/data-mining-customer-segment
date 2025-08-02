@@ -19,9 +19,21 @@ Menganalisis secara mendalam pola minat customer di semua kategori untuk mengide
 - **Creative market opportunity** (62.0% combined creative interests)
 - **Family-focused segment** (58.6% child-related interests)
 
+### 📊 **INTEREST CATEGORY DISTRIBUTION:**
+![Interest Category Distribution](./charts/03_interest_category_distribution.png)
+
+### 🚀 **ENTREPRENEURSHIP ANALYSIS BY CLUSTER:**
+![Entrepreneurship by Cluster](./charts/04_entrepreneurship_by_cluster.png)
+
+### 🎨 **CREATIVE ARTS ANALYSIS BY CLUSTER:**
+![Creative Arts by Cluster](./charts/11_creative_arts_by_cluster.png)
+
 ---
 
 ## 📋 CATEGORY-BY-CATEGORY ANALYSIS
+
+### 🔝 **TOP CUSTOMER INTERESTS OVERVIEW:**
+![Top 10 Customer Interests](./charts/09_top_interests.png)
 
 ### 1️⃣ **KATEGORI (PRIMARY INTERESTS)**
 

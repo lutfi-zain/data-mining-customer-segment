@@ -19,6 +19,15 @@ Complete demographic analysis mengungkap customer base yang **diverse, multi-gen
 - **Program Diversity**: 617 different programs with clear preferences
 - **Multi-generational Appeal**: Strong representation across all life stages
 
+### 📊 **AGE DEMOGRAPHICS:**
+![Age Distribution](./charts/05_age_distribution.png)
+
+### 💰 **SPENDING PATTERNS:**
+![Spending Distribution](./charts/06_spending_distribution.png)
+
+### 🌍 **GEOGRAPHIC DISTRIBUTION:**
+![Geographic Coverage](./charts/13_geographic_distribution.png)
+
 ---
 
 ## 👥 AGE DISTRIBUTION ANALYSIS

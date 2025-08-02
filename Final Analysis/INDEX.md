@@ -9,21 +9,22 @@
 
 ### ⭐ **MOST IMPORTANT (Start Here):**
 1. **[📊 MASTER EXECUTIVE SUMMARY](./MASTER_EXECUTIVE_SUMMARY.md)** ← **START HERE**
-2. **[🎨 MAIN VISUALIZATION](./comprehensive_integrated_visual_analysis.png)** ← **SEE CHARTS**
+2. **[🎨 MAIN VISUALIZATION](./comprehensive_integrated_visual_analysis.png)** ← **SEE ALL CHARTS**
+3. **[📁 INDIVIDUAL CHARTS](./charts/)** ← **BROWSE SPECIFIC CHARTS**
 
 ### 📊 **DETAILED REPORTS BY AUDIENCE:**
 
 #### 🎯 **FOR EXECUTIVES & STRATEGY:**
-- **[📈 Comprehensive Segmentation Report](./01_comprehensive_segmentation_report.md)**
-- **[💼 Business Opportunity Matrix](./comprehensive_integrated_visual_analysis.png)** (Chart 12)
+- **[📈 Comprehensive Segmentation Report](./01_comprehensive_segmentation_report.md)** + [Age-Spending Chart](./charts/02_age_spending_segmentation.png)
+- **[💼 Business Opportunity Matrix](./charts/12_business_opportunity_matrix.png)**
 
 #### 🔬 **FOR DATA & TECHNICAL TEAMS:**
-- **[📊 Detailed Clustering Analysis](./02_detailed_clustering_analysis.md)**
+- **[📊 Detailed Clustering Analysis](./02_detailed_clustering_analysis.md)** + [PCA Visualization](./charts/07_pca_visualization.png)
 - **[📋 Complete Integration Summary](./COMPLETE_INTEGRATION_SUMMARY.md)**
 
 #### 🎯 **FOR MARKETING & PRODUCT:**
-- **[🎯 Interest Pattern Analysis](./03_interest_pattern_analysis.md)**
-- **[👥 Demographic Profiling Analysis](./04_demographic_profiling_analysis.md)**
+- **[🎯 Interest Pattern Analysis](./03_interest_pattern_analysis.md)** + [Interest Categories](./charts/03_interest_category_distribution.png)
+- **[👥 Demographic Profiling Analysis](./04_demographic_profiling_analysis.md)** + [Demographics Charts](./charts/05_age_distribution.png)
 
 #### 📊 **FOR VISUAL UNDERSTANDING:**
 - **[🔗 Visual-Report Integration Guide](./INTEGRATED_VISUAL_REPORT_GUIDE.md)**
@@ -46,7 +47,22 @@
 ├── 👥 04_demographic_profiling_analysis.md (Demographics)
 │
 ├── 🔗 INTEGRATED_VISUAL_REPORT_GUIDE.md (Chart guide)
-└── 📋 COMPLETE_INTEGRATION_SUMMARY.md (Project overview)
+├── 📋 COMPLETE_INTEGRATION_SUMMARY.md (Project overview)
+│
+└── 📁 charts/ (Individual chart files)
+    ├── 01_cluster_overview.png
+    ├── 02_age_spending_segmentation.png
+    ├── 03_interest_category_distribution.png
+    ├── 04_entrepreneurship_by_cluster.png
+    ├── 05_age_distribution.png
+    ├── 06_spending_distribution.png
+    ├── 07_pca_visualization.png
+    ├── 08_frequency_program_analysis.png
+    ├── 09_top_interests.png
+    ├── 10_cluster_centers_heatmap.png
+    ├── 11_creative_arts_by_cluster.png
+    ├── 12_business_opportunity_matrix.png
+    └── 13_geographic_distribution.png
 ```
 
 ---
