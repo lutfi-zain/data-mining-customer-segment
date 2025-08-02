@@ -224,7 +224,7 @@ Program Diversity: 617 different programs
 
 ### 📊 **INTEREST OVERLAP INSIGHTS:**
 - **Entrepreneurship** appears in 51.9% of all customers
-- **Creative interests** (Seni & Visual + Crafting) reach 1,749 customers (62.0%)
+- **Creative interests** (Seni & Visual + Crafting) reach 1,674 customers (59.3%)
 - **Child-focused interests** span across multiple categories (879 customers)
 - **Food-related interests** dominate with multiple sub-categories
 - **Digital skills** commonly paired with creative interests
@@ -297,7 +297,7 @@ Program Diversity: 617 different programs
 - **📊 Visual Reference**: Chart 4 (Entrepreneurship Pie) shows 51.9% business interest
 - **📈 Market Size**: 1,465 customers confirmed through Chart 1 distribution
 
-#### **2. CREATIVE MARKET POTENTIAL (62.0% combined creative interests)**
+#### **2. CREATIVE MARKET POTENTIAL (59.3% combined creative interests)**
 - **Seni & Visual**: 898 customers (31.8%)
 - **Crafting/DIY**: 851 customers (30.2%)
 - **Opportunity**: Creative lifestyle platform and community
@@ -321,7 +321,7 @@ Program Diversity: 617 different programs
 
 #### **IMMEDIATE OPPORTUNITIES (Next 30 days):**
 1. **Launch Entrepreneurship Hub**: Serve 1,465 entrepreneurship-interested customers
-2. **Creative Community Platform**: Engage 1,749 creative-focused customers
+2. **Creative Community Platform**: Engage 1,674 creative-focused customers
 3. **Culinary Business Bootcamp**: Target 917 food entrepreneurs
 4. **Family Learning Programs**: Serve 879 child-focused customers
 

@@ -16,7 +16,7 @@ Menganalisis secara mendalam pola minat customer di semua kategori untuk mengide
 - **32 unique interests** identified across 5 comprehensive categories
 - **Complex multi-interest patterns** dengan high cross-category overlap
 - **Entrepreneurship dominance** (51.9% of all customers)
-- **Creative market opportunity** (62.0% combined creative interests)
+- **Creative market opportunity** (59.3% creative customers - 1,674 people)
 - **Family-focused segment** (58.6% child-related interests)
 
 ### 📊 **INTEREST CATEGORY DISTRIBUTION:**
@@ -27,6 +27,24 @@ Menganalisis secara mendalam pola minat customer di semua kategori untuk mengide
 
 ### 🎨 **CREATIVE ARTS ANALYSIS BY CLUSTER:**
 ![Creative Arts by Cluster](./charts/11_creative_arts_by_cluster.png)
+
+#### **CREATIVE ARTS INSIGHTS:**
+**Total Creative Customers:** 1,674 (59.3% of customer base)
+
+| Cluster | Total Customers | Creative Customers | Creative % |
+|---------|----------------|-------------------|------------|
+| Cluster 0 | 635 | 451 | 71.0% |
+| Cluster 1 | 312 | 241 | 77.2% |
+| Cluster 2 | 469 | 106 | 22.6% |
+| Cluster 3 | 533 | 357 | 67.0% |
+| Cluster 4 | 252 | 198 | 78.6% |
+| Cluster 5 | 310 | 156 | 50.3% |
+| Cluster 6 | 311 | 165 | 53.1% |
+
+**Key Creative Segments:**
+- **Cluster 4**: Highest creative concentration (78.6%)
+- **Cluster 1**: Second highest creative focus (77.2%)
+- **Cluster 0**: Largest creative customer base (451 customers)
 
 ---
 

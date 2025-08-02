@@ -170,6 +170,7 @@
   },
   "active": "eb926297bb25781e",
   "lastOpenFiles": [
+    "DOCUMENTATION_UPDATE_REPORT.md",
     "CREATIVE_CHART_FIX_REPORT.md",
     "Final Analysis/charts/11_creative_arts_comparison.png",
     "optimize_creative_chart.py",
@@ -214,7 +215,6 @@
     "06_visual_integration",
     "05_results/MASTER_EXECUTIVE_SUMMARY.md",
     "02_scripts/comprehensive_visualization_suite.py",
-    "04_reports/04_demographic_profiling_analysis.md",
-    "04_reports/03_interest_pattern_analysis.md"
+    "04_reports/04_demographic_profiling_analysis.md"
   ]
 }

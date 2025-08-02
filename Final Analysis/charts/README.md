@@ -100,7 +100,9 @@
 **File:** `11_creative_arts_by_cluster.png`
 - **Y-axis:** Jumlah pelanggan dengan minat kreatif
 - **X-axis:** Cluster ID
-- **Interpretasi:** Identifikasi segmen kreatif terkuat
+- **Total Creative Customers:** 1,674 (59.3% of customer base)
+- **Highest Creative Clusters:** Cluster 4 (78.6%), Cluster 1 (77.2%), Cluster 0 (71.0%)
+- **Interpretasi:** Identifikasi segmen kreatif terkuat untuk targeting program creative arts
 
 ### 1️⃣2️⃣ **BUSINESS OPPORTUNITY MATRIX**
 **File:** `12_business_opportunity_matrix.png`

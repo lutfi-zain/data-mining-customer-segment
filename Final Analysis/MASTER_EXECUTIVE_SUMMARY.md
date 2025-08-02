@@ -97,7 +97,7 @@ Data Quality: 100% complete (no missing values)
 
 **Business Implication**: **Massive entrepreneurship hub opportunity** serving cross-category business development
 
-### 🎨 **CREATIVE MARKET POWERHOUSE (62.0% - 1,749 customers)**
+### 🎨 **CREATIVE MARKET POWERHOUSE (59.3% - 1,674 customers)**
 **Discovery**: Majority of customers have creative interests across multiple categories
 **Breakdown**:
 - Seni & Visual: 898 customers (31.8%)
@@ -169,8 +169,8 @@ Data Quality: 100% complete (no missing values)
 - **Revenue Model**: Premium business courses, coaching, platform services
 - **Implementation**: 30-day launch timeline
 
-#### **2. CREATIVE LIFESTYLE PLATFORM (Target: 1,749 customers)**
-- **Market Size**: 62.0% of customer base  
+#### **2. CREATIVE LIFESTYLE PLATFORM (Target: 1,674 customers)**
+- **Market Size**: 59.3% of customer base  
 - **Focus**: Creative skill development and monetization
 - **Revenue Model**: Creative courses, marketplace, business support
 - **Implementation**: 60-day platform development
@@ -254,7 +254,7 @@ Data Quality: 100% complete (no missing values)
 4. **Platform Planning**: Design comprehensive customer ecosystem
 
 ### 🚀 **MEDIUM-TERM EXECUTION (Next 90 days):**
-1. **Creative Platform Launch**: Engage 1,749 creative-focused customers
+1. **Creative Platform Launch**: Engage 1,674 creative-focused customers
 2. **Family Ecosystem Development**: Serve 1,654 family-oriented customers
 3. **Geographic Expansion**: Penetrate key metropolitan markets
 4. **Community Building**: Establish customer networks and mentorship
