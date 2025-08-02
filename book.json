@@ -1,0 +1,42 @@
+{
+    "root": "./",
+    "title": "Customer Segmentation Analysis - Data Mining Insights",
+    "description": "Comprehensive customer segmentation analysis using advanced data mining techniques including K-means clustering, demographic profiling, and business opportunity identification.",
+    "author": "Data Mining Team",
+    "language": "id",
+    "gitbook": ">=3.0.0",
+    "structure": {
+        "readme": "README.md",
+        "summary": "SUMMARY.md"
+    },
+    "plugins": [
+        "github",
+        "toggle-chapters",
+        "expandable-chapters",
+        "anchors",
+        "search-pro",
+        "katex",
+        "include-codeblock",
+        "chart"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/lutfi-zain/data-mining-customer-segment"
+        },
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "define": {
+                "indexes": ["Final Analysis"]
+            }
+        }
+    },
+    "variables": {
+        "version": "1.0.0",
+        "project": "Customer Segmentation Analysis",
+        "totalCustomers": "2,822",
+        "optimalClusters": "7",
+        "silhouetteScore": "0.445",
+        "geographicCoverage": "672 locations",
+        "keyDiscovery": "61.2% customers interested in creative/arts segment"
+    }
+}
